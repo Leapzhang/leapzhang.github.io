@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://leapzhang.github.io</id>
+    <title>Leap&apos;s Blog</title>
+    <updated>2024-10-25T04:17:56.484Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://leapzhang.github.io"/>
+    <link rel="self" href="https://leapzhang.github.io/atom.xml"/>
+    <subtitle>--Leap&apos;s Blog--</subtitle>
+    <logo>https://leapzhang.github.io/images/avatar.png</logo>
+    <icon>https://leapzhang.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2024, Leap&apos;s Blog</rights>
+    <entry>
+        <title type="html"><![CDATA[Hello World!]]></title>
+        <id>https://leapzhang.github.io/post/hello-world/</id>
+        <link href="https://leapzhang.github.io/post/hello-world/">
+        </link>
+        <updated>2024-10-25T04:17:32.000Z</updated>
+        <content type="html"><![CDATA[<p>Hello World!</p>
+]]></content>
+    </entry>
+</feed>
